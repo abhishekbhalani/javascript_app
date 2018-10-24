@@ -1,0 +1,19 @@
+{
+  "name": "javascript-based-app",
+  "version": "1.0.0",
+  "description": "Developed by abhishek bhalani",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack src/index.js --output bin/app.js -d --watch"
+  },
+  "keywords": [javascript,node,template],
+  "author": "abhishek-bhalani",
+  "license": "ISC",
+  "dependencies": {
+    "mithril": "^1.1.6"
+  },
+  "devDependencies": {
+    "webpack": "^4.22.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
