@@ -1,4 +1,4 @@
-# javascript_app
+# javascript Based Application
 
 Purely Javascript based app that render server side call using API
 
