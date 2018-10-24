@@ -12,7 +12,7 @@ This is an example of an Mithril-Javascript based application.
 3. run `npm install`
 4. run `npm start`
 
-It will auto compile with node and minified bin/app.js file as output
+It will auto compile and minified bin/app.js file as output by webpack module
 
 # Components
 
